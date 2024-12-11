@@ -1,0 +1,13 @@
+{
+    "@@locale": "bn",
+    "@@last_modified": "2022-10-05T18:53:09+02:00",
+    "title": "ToDo App",
+    "list_title": "করণীয় তালিকা",
+    "addButton": "আইটেম যোগ করুন",
+    "title_addItem": "একটি নতুন করণীয় আইটেম যোগ করুন",
+    "hint_addItem": "আপনার নতুন কাজ টাইপ করুন",
+    "button_addItem": "যোগ করুন",
+    "total_todo": "মোট কাজ: {count}",
+    "pending_todo": "{count, plural, zero {আপনার কোনো মুলতুবি কাজ নেই} one {আপনার শুধুমাত্র একটি মুলতুবি কাজ আছে} other {আপনার {count}টি কাজ বাকি আছে}}",
+    "completed_todo": "{count, plural, zero {আপনার কোনো কাজ শেষ হয়নি} one {আপনি শুধুমাত্র একটি সম্পূর্ণ কাজ আছে} other {আপনার {count}টি কাজ সম্পন্ন হয়েছে}}"
+}
